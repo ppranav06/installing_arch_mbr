@@ -1,7 +1,23 @@
 # installing_arch_mbr
 A list of commands which help you to install Arch Linux. Created for ease of access, and also to help other people. Thanks to EFLinux (ermanno_ferrari) for his videos. 
 
-The list goes as:
+For ease of usage, install `openssh` in Arch and then access via your computer.
+```
+sudo pacman -Sy openssh
+
+sudo systemctl start sshd
+
+ip a
+
+passwd 
+(Apply a simple root password here)
+```
+To login (local PC): `ssh root@ip-address`
+(Copy ip address and login as root into the live ISO)
+
+---
+
+The list of commands goes as:
 ```
 timedatectl set-ntp true
 
