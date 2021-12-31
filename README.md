@@ -93,6 +93,7 @@ sudo systemctl enable NetworkManager
 (Display drivers)
 sudo pacman -Sy xf86-video-intel mesa (Intel drivers)
 sudo pacman -Sy xf86-video-amd-gpu mesa (AMD)
+sudo pacman -Sy xf86-video-vmware (VMWare or VirtualBox)
 sudo pacman -Sy nvidia nvidia-utils (Nvidia)
 sudo reboot (and again login as Pranav)
 
