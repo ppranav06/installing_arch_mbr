@@ -109,3 +109,6 @@ sudo reboot (and arch is installed!)
 ```
 
 Note: Most of the steps can be done inside chroot itself; reboot is not very necessary. 
+
+<p style="border: 2px solid red; padding: 10px;"> I have created an installation script, which is still in progress and has only a couple lines:
+  [Install Arch](https://github.com/ppranav06/ArchInstall)</p>
