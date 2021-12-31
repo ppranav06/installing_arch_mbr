@@ -107,3 +107,5 @@ sudo pacman-Sy gnome gnome-extra
 
 sudo reboot (and arch is installed!)
 ```
+
+Note: Most of the steps can be done inside chroot itself; reboot is not very necessary. 
