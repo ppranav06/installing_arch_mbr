@@ -1,5 +1,5 @@
 # installing_arch_mbr
-A list of commands which help you to install Arch Linux. Created for ease of access, and also to help other people. Thanks to EFLinux [(@ermanno_ferrari)](https://twitter.com/ermanno_ferrari) for his videos. 
+A list of commands which help you to install Arch Linux. Created for ease of access, and also to help other people. Thanks to EFLinux [(@ermanno_ferrari)](https://www.youtube.com/c/EFLinuxMadeSimple) for his videos. 
 
 For ease of usage, install `openssh` in Arch and then access via your computer.
 ```
