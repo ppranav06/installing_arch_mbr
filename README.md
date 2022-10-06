@@ -21,6 +21,7 @@ station [device-name] connect <SSID_OF_NETWORK>
 
 Check with `ping google.com` to test internet connection.
 
+---
 
 For ease of usage, install `openssh` in Arch and then access via your computer.
 ```
