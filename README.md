@@ -1,5 +1,5 @@
-# installing_arch_mbr
-A list of commands which help you to install Arch Linux. Created for ease of access, and also to help other people. Thanks to EFLinux [(@ermanno_ferrari)](https://www.youtube.com/c/EFLinuxMadeSimple) for his videos. 
+# Installing Arch (MBR)
+A list of commands which help you to install Arch Linux (in MBR). Created for ease of access, and also to help other people. Thanks to EFLinux [(@ermanno_ferrari)](https://www.youtube.com/c/EFLinuxMadeSimple) for his videos. 
 
 
 Connecting to Wifi using `iwctl`:
