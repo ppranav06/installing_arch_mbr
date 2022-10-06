@@ -1,6 +1,27 @@
 # installing_arch_mbr
 A list of commands which help you to install Arch Linux. Created for ease of access, and also to help other people. Thanks to EFLinux [(@ermanno_ferrari)](https://www.youtube.com/c/EFLinuxMadeSimple) for his videos. 
 
+
+Connecting to Wifi using `iwctl`:
+```
+iwctl
+
+(inside iwctl interface)
+
+device list
+
+station [device-name] scan
+
+station [device-name] get-networks
+
+station [device-name] connect <SSID_OF_NETWORK>
+
+(enter password afterwise)
+```
+
+Check with `ping google.com` to test internet connection.
+
+
 For ease of usage, install `openssh` in Arch and then access via your computer.
 ```
 sudo pacman -Sy openssh
